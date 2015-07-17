@@ -1,0 +1,23 @@
+{
+  "name": "Temporary email address validator",
+  "version": "1.0.0",
+  "description": "Temporary / Disposable Email Address Validator for Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sureshdsk/Disposable-email-validator-php"
+  },
+  "keywords": [
+    "email",
+    "validator"
+  ],
+  "author": "Suresh Kumar <dsk@idiotinside.com> (http://idiotinside.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sureshdsk/Disposable-email-validator-php/issues"
+  },
+  "homepage": "https://github.com/sureshdsk/Disposable-email-validator-php"
+}
