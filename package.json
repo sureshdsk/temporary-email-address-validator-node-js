@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sureshdsk/Disposable-email-validator-php"
+    "url": "https://github.com/sureshdsk/temporary-email-address-validator-node-js"
   },
   "keywords": [
     "email",
@@ -17,7 +17,7 @@
   "author": "Suresh Kumar <dsk@idiotinside.com> (http://idiotinside.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sureshdsk/Disposable-email-validator-php/issues"
+    "url": "https://github.com/sureshdsk/temporary-email-address-validator-node-js/issues"
   },
-  "homepage": "https://github.com/sureshdsk/Disposable-email-validator-php"
+  "homepage": "http://www.idiotinside.com/disposable-temporary-email-address-validation/"
 }
