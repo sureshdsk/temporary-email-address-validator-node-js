@@ -4,7 +4,7 @@ As a owner or web master you wouldn’t really want someone anonymously utilizin
 Install the node package : <code>npm i temporary-email-address-validator</code>
 
 # Example
-`
+```
 var express = require('express');
 var bodyParser = require('body-parser');
 var disposableEmail = require('temporary-email-address-validator');
@@ -37,6 +37,6 @@ app.post('/', function(req, res){
 });
 
 app.listen(3000);
-`
+```
 
 Run with node app.js
