@@ -42,7 +42,7 @@ app.listen(3000);
 Run with node app.js
 
 
-#Documentation
+# Documentation
 [Temporary Email Address Validator](http://www.idiotinside.com/disposable-temporary-email-address-validation/)
 
 # Looking for PHP / Java script / Python version of this plugin?
