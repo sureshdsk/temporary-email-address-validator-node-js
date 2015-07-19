@@ -1,6 +1,6 @@
 {
   "name": "temporary-email-address-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Temporary / Disposable Email Address Validator for Node.JS",
   "main": "index.js",
   "scripts": {
