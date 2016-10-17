@@ -1,6 +1,6 @@
 module.exports = {
     validate: function(email) {
-    disposable_email_providers = [
+    var disposable_email_providers = [
     "0815.ru",
     "0wnd.net",
     "0wnd.org",
