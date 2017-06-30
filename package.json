@@ -1,6 +1,6 @@
 {
   "name": "temporary-email-address-validator",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "Temporary / Disposable Email Address Validator for Node.JS",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "email",
     "validator"
   ],
-  "author": "Suresh Kumar <dsk@idiotinside.com> (http://idiotinside.com)",
+  "author": "Suresh Kumar <dsk@idiotinside.com> (http://idiotinside.com), Garry Lachman (garry@lachman.co)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sureshdsk/temporary-email-address-validator-node-js/issues"
